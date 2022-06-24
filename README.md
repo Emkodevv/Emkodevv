@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
- [<img align="left" alt="Emkodevv ❘ Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384031.png" />]  
- [<img align="left" alt="Emkodevv ❘ Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/128/466/466963.png" />] 
- [<img align="left" alt="Emkodevv ❘ Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1946/1946547.png" />] 
+ [<img align="left" alt="Emkodevv ❘ Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384031.png" />] [instagram] 
+ [<img align="left" alt="Emkodevv ❘ Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/128/466/466963.png" />] [twitter]
+ [<img align="left" alt="Emkodevv ❘ Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1946/1946547.png" />] [telegram]
 
  <br />
 
@@ -24,6 +24,6 @@
 <br />
 <br />
 
- <!-- [instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/
 [twitter]: https://twitter.com/home
-[telegram]: https://t.me/kraken_sama   -->
+[telegram]: https://t.me/kraken_sama 
