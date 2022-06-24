@@ -24,6 +24,11 @@
 <br />
 <br />
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emkodevv&show_icons=true)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emkodevv&layout=compact)
+
 [instagram]: https://www.instagram.com/
 [twitter]: https://twitter.com/home
 [telegram]: https://t.me/kraken_sama 
