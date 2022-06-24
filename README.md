@@ -1,5 +1,7 @@
 ### He there 👋, I'm Emir 
 
+![](https://komarev.com/ghpvc/?username=Emkodevv)
+
 ## I'm a Front-End Developer
 - 👨🏻‍💻 I like to write code
 - 🗺 I love taking pictures and traveling to different places.
